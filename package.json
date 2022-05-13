@@ -1,0 +1,25 @@
+{
+  "name": "team_building_nodejs",
+  "version": "1.0.0",
+  "description": "Rules to make the version of branches",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjacifre10/team_building_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjacifre10/team_building_nodejs/issues"
+  },
+  "homepage": "https://github.com/benjacifre10/team_building_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mysql2": "^2.3.3"
+  }
+}
