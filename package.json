@@ -1,6 +1,6 @@
 {
   "name": "team_building_nodejs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Rules to make the version of branches",
   "main": "./src/index.js",
   "scripts": {
